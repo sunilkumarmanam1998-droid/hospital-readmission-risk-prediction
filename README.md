@@ -49,5 +49,9 @@ The project work was divided among three team members:
 - Team Member 2: Data cleaning, preprocessing, feature engineering, and exploratory visualizations
 - Team Member 3: Model development, evaluation, risk group classification, fairness check, and ethical reflection
 
+## Repository Link
+
+https://github.com/sunilkumarmanam1998-droid/hospital-readmission-risk-prediction
+
 ## Citation
 Clore, J., Cios, K., DeShazo, J., & Strack, B. (2014). Diabetes 130-US Hospitals for Years 1999-2008 [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5230J
