@@ -45,9 +45,9 @@ Can patient demographics, hospital utilization history, diagnoses, medications, 
 
 ## Team Collaboration
 The project work was divided among three team members:
-- Team Member 1: Problem framing, dataset description, report writing, and GitHub organization
-- Team Member 2: Data cleaning, preprocessing, feature engineering, and exploratory visualizations
-- Team Member 3: Model development, evaluation, risk group classification, fairness check, and ethical reflection
+- Venkata Sunilkumar Manam: Problem framing, dataset description, report writing, and GitHub organization
+- Joseph Alexandre Grimaud: Data cleaning, preprocessing, feature engineering, and exploratory visualizations
+- Raja Sankeerth Reddy Cholleti: Model development, evaluation, risk group classification, fairness check, and ethical reflection
 
 ## Repository Link
 
